@@ -1,4 +1,5 @@
 # Fix for Unknown Rules of TailWindCSS.
+This repository provides a solution for handling unknown rules in TailWindCSS within Visual Studio Code. By configuring custom settings, you can ensure that TailWindCSS directives are recognized and properly handled by the editor.
 
 1. Create `.vscode` at the root of your project with the two files named
 - `settings.json`
